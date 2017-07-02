@@ -6,7 +6,6 @@ layout: default
 
 _yay_
 
-[back](./)
 
 ## [](#header-2)Header 2
 
@@ -115,3 +114,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+[back](./)
