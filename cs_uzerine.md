@@ -8,10 +8,9 @@ Kısaca eğitimden önce neredeydim ondan bahsedeyim. Eğitimden önce mezun olm
 
 Şu ana kadar duyulan ve görülenden de anlaşılabileceği gibi Cyber Struggle’ın tarzı her zaman kursiyeri klasik eğitim modelinden olabildiğince uzak bir eğitim modeli ile karşı karşıya getirmek. Başvuru formu ile başlayan bu farklılıklar, klasik eğitim modelinde eğitime şu tarih şu saat ve şurada olacak o saatte görüşürüzden de bir o kadar uzak bir şekilde başlıyor. Eğitim öncesi her birlikten bir birlik ismi ve bu isme uygun bir logo tasarlaması bekleniyor (Selam olsun HONEYBADGERS)  ki burada daha önce yüz yüze gelmemiş kursiyerlerden kimisi için bir 10 hafta için kimisi içinde ömür boyu gurur duyacağı bir isim bulmak ve logo tasarlamak için toplu hareket etmesi bekleniyor. Ececim sağolsun bizim psikopat bal porsuğumuz onun fikriydi  Logomuzda baya efso hani… 
 
-### Large image
-![](https://github.com/ahmetburakgokalp/ahmetburakgokalp.github.io/blob/master/honeyBadgersLogo.jpg)
+### Honey_Badgers
 ![HB Image]({{ site.url }}/honeyBadgersLogo.jpg)
-![](https://github.com/ahmetburakgokalp/ahmetburakgokalp.github.io/blob/master/satSonrasi.png)
+
 İlk gün ilk yüz yüze temas, sınıfa bir gürültüyle giren hocamız (Kubilay) ile ilk karşılaşma. Sonra zaten peşini bırakmadım umarım bıkmıyordur  İlk gün merak edilen kafayı kurcalayan nasıl ilerleneceği neler yaşanacağı ve önceki dönem bizim için sizler için önceki dönemlerde neler yaşandığı hakkında bilgiler verilerek başlanıyor. Bizi ilk şok eden ise ilk eğitimden kimsenin RANGER olamadığını öğrenmek olmuştu. Nasıl yani bir sertifika programı  kimseye sertifika vermezdi sorusunu soruyorsun ancak bu sorunun yanlış olduğunu çok geçmeden görüyorsunuz. Soru aynen şu şekilde olmalı, acaba ne kadar zor ki bir kişi bile sertifikayı alabilecek başarıyı gösterememiş? 
 
 Eğitimin ilk gününden son gününe kadar sizden istenen ve sonrasında bile okumaktan keyif duyduğunuz debrief ödevleri, aslında bir günlük gibi sizin için eğitim sürecinde yaşadıkların eksik gördüklerin, seni sinir eden Hocana küfür edebileceğin son derece özgür ve güzel bir uygulama, hala okur eğlenirim aynı zamanda değişimini görmek adına da harika bir ödev.
@@ -25,6 +24,9 @@ Eğitim neden 10 hafta, çünkü bu sadece teknik olarak geliştiğin bir eğiti
 Peki bunun için ideal süre ne kadar 10 hafta.. Tabi bu süre sonunda başta Kubilay Hocamız olmak üzere Cyber Struggle ailesi sertifikayı alamamış olsan bile her zaman yanında oluyor. Aklına gelebilecek her sıkıntı için destek alabileceğin bir aileye sahip oluyorsun.
 
 Sürecin zorluğu hakkında da biraz konuşayım. Öncelikli olarak uyumayı çok seviyorsanız geçmiş olsun uyarı almak ve bunun sonucunda eğitimden atılmak istemiyorsanız bu sevdadan bir 10 hafta uzaklaşmanız gerekecek. Sonrasında zaten az uyku alışkanlık haline geliyor. Ha bu arada yanlış duymadınız 4 uyarı almanız durumunda sertifika alma hakkınızı kaybediyorsunuz, 6 uyarı almanız durumunda ise eğitimden atılıyorsunuz. Bunu yaşayanlarda oldu, bunu da tecrübe ettik yani. Hafta sonlarınızı bir 10 haftalığına silmeniz gerekiyor, çünkü eğitimin yüz yüze kısımları Cumartesi ve Pazar günleri yapılmakta ve belirli bir saat aralığı yok  Teknik açıdan ne kadar iyi olursanız olun gelen ödev ve çalışılması gereken konuların yoğunluğu sonucunda hafta içlerinde kafanızı pcden kaldıracak pek zamanınız kalmıyor. SAT eğitimleri ise off  Herkesin yaşaması gereken bir tecrübe, ancak herkesin sonunu görebileceği bir eğitim değil ki bu eğitimleri başarı ile tamamlayamazsanız yine sertifika hakkını kaybetmiş oluyorsunuz. SAT için başarı demek ise gün sonuna kadar pes etmemek. Alttaki fotoğrafta son SAT’ın sonundan bir fotomuzu görmektesiniz. Fena dağılmıştık  Cehennem Haftası… Tüm eğitim boyunca öğrendiğiniz teknik bilgileri kullanmanız gereken, zamanlar, stresle, uykusuzluk ile boğuştuğun bir hafta kısacası isminin hakkını veren ve aşağıdaki SAT fotosu ile sonlanan bir hafta. 
+
+### SAT_SONRASI
+![HB Image]({{ site.url }}/satSonrasi.png)
 
 Eğitim sonrası hakkında konuşmak gerekirse. Eğitim sürecinde işsiz olan porsuklar (bende dahil) herkes iyi firmalarda çalışmaya başladı, bu süreçte çalışan porsuklar ise daha büyük firmalara geçtiler. Hatta şu an benimle birlikte RANGER sertifikasını alabilmiş Ececiğim ve Fatihciğim (Kar Baykuşlarından) ile birlikte çalışma şerefine eriştim :)
 
