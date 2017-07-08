@@ -10,7 +10,7 @@ Kısaca eğitimden önce neredeydim ondan bahsedeyim. Eğitimden önce mezun olm
 
 ### Large image
 ![](https://github.com/ahmetburakgokalp/ahmetburakgokalp.github.io/blob/master/honeyBadgersLogo.jpg)
-
+![HB Image]({{ site.url }}/honeyBadgersLogo.jpg)
 ![](https://github.com/ahmetburakgokalp/ahmetburakgokalp.github.io/blob/master/satSonrasi.png)
 İlk gün ilk yüz yüze temas, sınıfa bir gürültüyle giren hocamız (Kubilay) ile ilk karşılaşma. Sonra zaten peşini bırakmadım umarım bıkmıyordur  İlk gün merak edilen kafayı kurcalayan nasıl ilerleneceği neler yaşanacağı ve önceki dönem bizim için sizler için önceki dönemlerde neler yaşandığı hakkında bilgiler verilerek başlanıyor. Bizi ilk şok eden ise ilk eğitimden kimsenin RANGER olamadığını öğrenmek olmuştu. Nasıl yani bir sertifika programı  kimseye sertifika vermezdi sorusunu soruyorsun ancak bu sorunun yanlış olduğunu çok geçmeden görüyorsunuz. Soru aynen şu şekilde olmalı, acaba ne kadar zor ki bir kişi bile sertifikayı alabilecek başarıyı gösterememiş? 
 
