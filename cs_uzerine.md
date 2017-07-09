@@ -29,6 +29,7 @@ Eğitim süreç olarak hem yüz yüze hemde evinde iken ufak, orta ve büyük ç
 *Cehennem Haftası
 
 Eğitim neden 10 hafta, çünkü bu sadece teknik olarak geliştiğin bir eğitim değil. Zaten mezun olduğunuzda ve eğer kafayı yakıp ranger olabildiyseniz, mental gelişimin bu eğitimde ki yerini daha net göreceksiniz. Çünkü geldiğiniz mental seviye ile bundan sonra öğrenemeyeceğiniz bir bilgi veya aşamayacağınız bir engel olmadığını çok iyi görebiliyorsunuz. Ve bu gelişim içinde en uygun süre 10 hafta. Bunun yanında bu süreçte takım olma kavramı giriyor hayatınıza hem de en derinden. Takım olma kavramı eğitim için o kadar önemli ki takım olamadıysan sertifika için çok gerilerdesin anlamına gelmekte. Eğitimin tasarımı gereği takımca hareket etmeyen birinin son günü görme olasılığı YOK! Takım olmanın benim eğitim süreci ve sonrasında gördüğüm faydalarını şu şekilde sıralayabilirim,
+
 * Geri kalırsan elini uzatacak birilerinin var olduğunu bilmek,
 * Teknik açıdan sıkıntı çekiyorsan sana destek atacak birilerinin ekibinde büyük ihtimalle var olması yoksa bile beraberce hızlıca üstesinden gelebilecek olmanız,
 * Belki de en önemlisi arkandan iş çevirmeyeceğini bildiğin insanlarla yan yana yürümek,
