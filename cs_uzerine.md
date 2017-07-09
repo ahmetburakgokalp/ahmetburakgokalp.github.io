@@ -30,8 +30,19 @@ Sürecin zorluğu hakkında da biraz konuşayım. Öncelikli olarak uyumayı ço
 
 Eğitim sonrası hakkında konuşmak gerekirse. Eğitim sürecinde işsiz olan porsuklar (bende dahil) herkes iyi firmalarda çalışmaya başladı, bu süreçte çalışan porsuklar ise daha büyük firmalara geçtiler. Hatta şu an benimle birlikte RANGER sertifikasını alabilmiş Ececiğim ve Fatihciğim (Kar Baykuşlarından) ile birlikte çalışma şerefine eriştim :)
 
+Fatih ve Aydın Abinin eğitim üzerine yazılarına aşağıdaki linkler üzerinden ulaşabilirsiniz.
+
+
 [Fatih Kayran](http://fatihkayran.com/blog/2017/04/29/Cyber-Struggle-Review.html)
 
 [Aydın Yakar](http://www.aydinyakar.com/2016/06/cyber-struggle-egitimi-hakknda.html)
+
+
+Eğitim hakkında ve eğitime katılmış kursiyerlerin görüşleri hakkında ki bilgilere aşağıdan ulabilirsiniz.
+
+[Cyber Struggle Görüşler](https://cyberstruggle.org/gorusler/)
+
+[Cyber Struggle](https://cyberstruggle.org/)
+
 
 [geri](./)
