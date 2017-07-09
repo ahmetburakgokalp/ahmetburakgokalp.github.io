@@ -16,6 +16,7 @@ Kısaca eğitimden önce neredeydim ondan bahsedeyim. Eğitimden önce mezun olm
 Eğitim süreç olarak hem yüz yüze hemde evinde iken ufak, orta ve büyük çapta ödevleri, görevleri, tamamlayıp bir sonraki adıma geçme şeklinde ilerliyor. Bu ödevler ve görevler kod yazmadan, pentest yapmaya, rapor yazamadan, investigationa geniş bir yelpazede seyrediyor. Ödevlerin, görevlerin gelme şekli tek düze işleyen bir yapıda değil. Bir gün Kubilay Hoca ders anlatıp, birkaç anahtar kelime verip ardından uygulamayı yapmanızı beklerken, başka birgün konu hakkında en ufak bir bilginizin olmadığı bir ödev veya görev ile karşı karşıya kalabiliyorsunuz. İki tür uygulamda da çoğu zaman dumur oldum, çünkü eğitime girdiğimde yazılım açısından bir geçmişim olsa bile eğitim sürecinde geçmişimin bana katkısı %10 kadar olmuştur. Diğer bütün süreci (cehennem haftasına gelene kadarki 100 ödevi geçkin bir süreç) başarılı bir şekilde geçebilmek için uykusuz ve yoğun günler geçirmek zorunda kaldığımda bir gerçektir. Uykusuzluktan kasıt günde ortalama 4-5 saat uyku, yoğunluktan kasıt ise 14-15 saate yakın bir çalışma temposu anlamına geliyor. Bu tempoya sığanlar;
 
 *Penetration Test
+
 *Zararlı Analizi
 *Exploitation
 *Siber Olay Yönetimi
