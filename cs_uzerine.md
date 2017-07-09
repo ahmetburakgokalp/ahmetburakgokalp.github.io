@@ -30,6 +30,6 @@ Sürecin zorluğu hakkında da biraz konuşayım. Öncelikli olarak uyumayı ço
 
 Eğitim sonrası hakkında konuşmak gerekirse. Eğitim sürecinde işsiz olan porsuklar (bende dahil) herkes iyi firmalarda çalışmaya başladı, bu süreçte çalışan porsuklar ise daha büyük firmalara geçtiler. Hatta şu an benimle birlikte RANGER sertifikasını alabilmiş Ececiğim ve Fatihciğim (Kar Baykuşlarından) ile birlikte çalışma şerefine eriştim :)
 
-(http://fatihkayran.com/blog/2017/04/29/Cyber-Struggle-Review.html)
+[Fatih Kayran](http://fatihkayran.com/blog/2017/04/29/Cyber-Struggle-Review.html)
 
 [geri](./)
